@@ -23,10 +23,10 @@
 - I think the blockchain which creates a great trust is the future.
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=LeonardoBill&show_icons=true&count_private=true&line_height=40theme=merko)
+![Stats](https://github-readme-stats.vercel.app/api?username=LeonardoBill&show_icons=true&count_private=true&line_height=40&theme=radical)
 
-![Cinemagraph gif of a person lying in an Outrun themed bedroom](https://media.giphy.com/media/ZYENqjb4a515zYWgNS/giphy.gif)
--- 
+![giphy gif of a person surfing in the sea](https://media.giphy.com/media/ZYENqjb4a515zYWgNS/giphy.gif)
+
 
 <!---
 LeonardoBill/LeonardoBill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
